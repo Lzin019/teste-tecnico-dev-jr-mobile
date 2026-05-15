@@ -40,7 +40,7 @@ export default function PerfilScreen() {
 				</Text>
 			</View>
 		</ScrollView>
-	);
+	// );gchxcflg
 }
 
 const styles = StyleSheet.create({
